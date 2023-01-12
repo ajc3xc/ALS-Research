@@ -6,5 +6,5 @@ A repository storing the scripts and plots for ALS research work done for Karen 
 <br/><br/>
 
 ## Links
-- __[Python Scripts](Python Scripts)__<br/>
+- [Python Scripts](https://github.com/ajc3xc/ALS-Research/tree/main/Scatterplots/Scatterplots)
 - __[Data Plots](Scatterplots/Scatterplots)__
